@@ -1,3 +1,4 @@
+# draw house and person using Turtle 
 from oop_part1 import Shape
 from oop_part1 import Rectangle
 from oop_part1 import Circle
