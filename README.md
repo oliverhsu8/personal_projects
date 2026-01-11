@@ -7,4 +7,5 @@
 3) Project in learning OOP.
 ## Personal Project
 There is a natural language processing project I worked on. 
+- Python
 
