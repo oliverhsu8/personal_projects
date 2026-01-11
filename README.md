@@ -1,4 +1,4 @@
-# Personal Projects
+# Projects
 ## Community College Classwork
 - There are three things of coursework from community college classes I have taken.
 - All in Python
